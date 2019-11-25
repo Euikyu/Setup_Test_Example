@@ -5,8 +5,8 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:Setup_Test_Example"
         mc:Ignorable="d"
-        Title="MainWindow" Height="450" Width="800">
+        Title="MainWindow" Height="300" Width="450">
     <Grid>
-        
+        <TextBlock Text="잘 설치되어 실행되었습니다."/>
     </Grid>
 </Window>
